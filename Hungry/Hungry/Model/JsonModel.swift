@@ -1,10 +1,4 @@
-//
-//  JsonModel.swift
-//  swiftyjson
-//
-//  Created by Yogesh Patel on 16/04/18.
-//  Copyright © 2018 Yogesh Patel. All rights reserved.
-//
+
 
 import Foundation
 
